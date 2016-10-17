@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="start">START</string>
+	<string name="app_name">Demo</string>
+	<string name="pause">PAUSE</string>
+	<string name="stop">STOP</string>
+</resources>
